@@ -1,2 +1,3 @@
 # Stock-Market-Analysis-Project
 Stock Market Analysis Project downloads historical stock prices, computes summary statistics, and generates CSV reports and plots for quick exploratory analysis.
+Stock Market Analysis Project is a reproducible Python toolkit that downloads historical prices for configurable tickers and date ranges, cleans and aggregates the data, and computes summary statistics and common technical indicators. It outputs a combined stock_data.csv, summary tables, and charts saved to results/ for quick exploratory analysis or backtesting. Install dependencies with pip install -r requirements.txt and run python stock_analysis.py to fetch data and generate outputs.
